@@ -15,3 +15,5 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 # simple-java-maven-app
+
+# Adding comment to test email notification to jenkins.
